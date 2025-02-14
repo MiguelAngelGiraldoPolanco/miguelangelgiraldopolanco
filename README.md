@@ -34,12 +34,4 @@ A project aimed at formalizing processes in an informal sector.
 
 
 
-📫 Get in Touch
-
-GitHub: MiguelAngelGiraldoPolanco
-
-Email: your.email@example.com
-
-LinkedIn: Your LinkedIn
-
 💡 Always open to new challenges and collaborations!
