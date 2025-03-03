@@ -16,22 +16,5 @@ Tools & Platforms: Docker, Git, GitHub, XAMPP, Linux
 
 Other Skills: REST APIs, CORS, MVC Architecture, UX/UI Design
 
-📌 Featured Projects
-
-📜 Blog Laravel
-
-A simple blog application built with Laravel that allows users to create, edit, and manage blog posts.
-
-🛒 Sports Store
-
-An e-commerce project following a well-defined style guide with Vue.js and Laravel.
-
-🌱 Coffee Plantation Management
-
-A project aimed at formalizing processes in an informal sector.
-
-📈 My GitHub Stats
-
-
 
 💡 Always open to new challenges and collaborations!
