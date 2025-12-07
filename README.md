@@ -1,6 +1,6 @@
 # 🚀 About Me:
 
-I'm a Web Developer passionate about creating efficient and scalable applications. My main focus is on Laravel, Vue.js, JavaScript, PHP, and MySQL. I am constantly learning new technologies and improving my skills to build better software solutions.
+I'm a Software Developer passionate about creating efficient and scalable applications. My main focus is on Java, Spring, Vue.js, JavaScript, PHP, and MySQL. I am constantly learning new technologies and improving my skills to build better software solutions.
 
 
 # 💻 Tech Stack:
