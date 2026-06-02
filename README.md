@@ -12,20 +12,17 @@ Building high-performance services with FastAPI, Spring WebFlux, and Node.js. Ex
 Creating modern, responsive web interfaces using Next.js and TypeScript, with a focus on performance and developer experience.
 
 ## 🛠 Tech Stack
-**AI & Backend***
+**AI & Backend**
+
 Languages: Python, Java, TypeScript
-
 Frameworks: FastAPI, Spring Boot (WebFlux), Node.js
-
 AI/LLMs: CrewAI, LangChain, OpenAI API
-
 Data/Storage: Supabase, PostgreSQL, Vector Databases
 
 **Frontend & Web**
+
 Frameworks: Next.js 16 (App Router), React 19
-
 Styling: Tailwind CSS, Radix UI
-
 Tools: Docker, Vercel, Git
 
 ## 🚀 Featured Projects
